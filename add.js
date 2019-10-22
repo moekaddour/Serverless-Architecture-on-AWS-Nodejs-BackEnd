@@ -10,7 +10,7 @@ module.exports.addFavorite = (event, context, callback) => {
     Item: {
       tweetId: data.id,
       text: data.text,
-      createdAt: data.created_at,
+      createdAt: data.createdAt,
       tweetedBy: data.tweetedBy
     }
   };
