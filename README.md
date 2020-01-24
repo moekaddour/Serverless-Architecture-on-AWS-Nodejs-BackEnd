@@ -1,5 +1,5 @@
 # Serverless Architecture on AWS + Nodejs BackEnd
-
+This is a serverless app connected to amazon web services specifically Lambda and DynamoDB. This app is connected tho twitter API where fetches the latest tweets of Donald Trump and Hillary Clinton and saves them in the DynamoDB.
 
 
 ## Installation
